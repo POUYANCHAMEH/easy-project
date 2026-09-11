@@ -25,4 +25,4 @@ Perfect for beginners who want to explore color transitions, text animations, an
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/easy-project
+   git clone https://github.com/POUYANCHAMEH/easy-project
